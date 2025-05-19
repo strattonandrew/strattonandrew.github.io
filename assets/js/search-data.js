@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-towards-a-characterization-of-social-robot-navigation-scenarios-is-awarded-best-paper-at-the-rss-2024-workshop-on-unsolved-problems-in-social-robot-navigation",
-          title: 'Towards a Characterization of Social Robot Navigation Scenarios is awarded Best Paper at...',
+            },},{id: "news-towards-a-characterization-of-the-complexity-of-social-robot-navigation-scenarios-is-awarded-best-paper-at-the-rss-2024-workshop-on-unsolved-problems-in-social-robot-navigation",
+          title: 'Towards a Characterization of the Complexity of Social Robot Navigation Scenarios is awarded...',
           description: "",
           section: "News",},{id: "news-i-ve-passed-my-qualifying-exams-and-am-officially-a-ph-d-candidate",
           title: 'I’ve passed my qualifying exams and am officially a Ph.D. Candidate!',
