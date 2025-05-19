@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<i>Characterizing the Complexity of Social Robot Navigation Scenarios<\i> is accepted to appear in Robotics and Automation Letters!
+<i>Characterizing the Complexity of Social Robot Navigation Scenarios</i> is accepted to appear in Robotics and Automation Letters!
