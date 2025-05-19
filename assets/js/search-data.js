@@ -405,16 +405,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-towards-a-characterization-of-social-robot-navigation-scenarios-is-awarded-best-paper-at-the-rss-2024-workshop-on-unsolved-problems-in-social-robot-navigation",
+          title: 'Towards a Characterization of Social Robot Navigation Scenarios is awarded Best Paper at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
