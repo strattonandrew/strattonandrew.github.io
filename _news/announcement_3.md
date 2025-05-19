@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2004-10-29 18:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+<i>Characterizing the Complexity of Social Robot Navigation Scenarios<\i> is accepted to appear in Robotics and Automation Letters!
