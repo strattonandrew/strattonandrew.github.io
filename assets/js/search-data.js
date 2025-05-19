@@ -405,11 +405,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-characterizing-the-complexity-of-social-robot-navigation-scenarios-amp-lt-i-amp-gt-is-accepted-to-appear-in-robotics-and-automation-letters",
-          title: 'Characterizing the Complexity of Social Robot Navigation Scenarios&amp;amp;lt;\i&amp;amp;gt; is accepted to appear in...',
-          description: "",
-          section: "News",},{id: "news-towards-a-characterization-of-social-robot-navigation-scenarios-is-awarded-best-paper-at-the-rss-2024-workshop-on-unsolved-problems-in-social-robot-navigation",
+            },},{id: "news-towards-a-characterization-of-social-robot-navigation-scenarios-is-awarded-best-paper-at-the-rss-2024-workshop-on-unsolved-problems-in-social-robot-navigation",
           title: 'Towards a Characterization of Social Robot Navigation Scenarios is awarded Best Paper at...',
+          description: "",
+          section: "News",},{id: "news-i-ve-passed-my-qualifying-exams-and-am-officially-a-ph-d-candidate",
+          title: 'I’ve passed my qualifying exams and am officially a Ph.D. Candidate!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
