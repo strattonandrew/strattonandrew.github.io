@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-characterizing-the-complexity-of-social-robot-navigation-scenarios-amp-lt-i-amp-gt-is-accepted-to-appear-in-robotics-and-automation-letters",
+          title: 'Characterizing the Complexity of Social Robot Navigation Scenarios&amp;amp;lt;\i&amp;amp;gt; is accepted to appear in...',
           description: "",
           section: "News",},{id: "news-towards-a-characterization-of-social-robot-navigation-scenarios-is-awarded-best-paper-at-the-rss-2024-workshop-on-unsolved-problems-in-social-robot-navigation",
           title: 'Towards a Characterization of Social Robot Navigation Scenarios is awarded Best Paper at...',
