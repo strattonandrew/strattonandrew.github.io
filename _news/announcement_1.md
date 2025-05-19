@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<i>Towards a Characterization of Social Robot Navigation Scenarios</i> is awarded Best Paper at the RSS 2024 Workshop on Unsolved Problems in Social Robot Navigation.
+<i>Towards a Characterization of the Complexity of Social Robot Navigation Scenarios</i> is awarded Best Paper at the RSS 2024 Workshop on Unsolved Problems in Social Robot Navigation.
