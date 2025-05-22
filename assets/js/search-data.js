@@ -417,7 +417,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-presenting-my-ra-l-paper-and-have-two-workshop-papers-long-horizon-motion-prediction-and-advances-in-social-navigation-at-icra-2025-come-say-hello-at-my-presentation-posters",
           title: 'I’m presenting my RA-L paper, and have two workshop papers (Long Horizon Motion...',
           description: "",
-          section: "News",},{id: "projects-project-8",
+          section: "News",},{id: "projects-project-7",
+          title: 'project 7',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
+            },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
