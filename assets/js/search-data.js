@@ -23,21 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "nav-submenus",
+          title: "submenus",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/_pages/dropdown/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -412,10 +405,16 @@ ninja.data = [{
           title: 'Characterizing the Complexity of Social Robot Navigation Scenarios is accepted to appear in...',
           description: "",
           section: "News",},{id: "news-i-ve-passed-my-qualifying-exams-and-am-officially-a-ph-d-candidate",
-          title: 'I’ve passed my qualifying exams and am officially a Ph.D. Candidate!',
+          title: 'I’ve passed my qualifying exams and am officially a Ph.D. Candidate.',
           description: "",
           section: "News",},{id: "news-i-m-presenting-my-ra-l-paper-and-have-two-workshop-papers-long-horizon-motion-prediction-and-advances-in-social-navigation-at-icra-2025-come-say-hello-at-my-presentation-posters",
           title: 'I’m presenting my RA-L paper, and have two workshop papers (Long Horizon Motion...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-a-dataset-for-social-robot-navigation-and-human-motion-prediction-in-constrained-spaces-is-accepted-to-icra-2026",
+          title: 'Our paper on a dataset for Social Robot Navigation and Human Motion Prediction...',
+          description: "",
+          section: "News",},{id: "news-one-full-paper-one-late-breaking-report-and-two-workshop-papers-accepted-to-hri-2026-i-ll-be-presenting-the-full-paper-tuesday-in-the-robot-perception-2-session-come-check-out-the-presentation-and-or-say-hello-at-the-conference",
+          title: 'One full paper, one late-breaking report, and two workshop papers accepted to HRI...',
           description: "",
           section: "News",},{
         id: 'social-email',
