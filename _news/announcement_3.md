@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've passed my qualifying exams and am officially a Ph.D. Candidate!
+I've passed my qualifying exams and am officially a Ph.D. Candidate.

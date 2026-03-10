@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first year Robotics Ph.D. student with Professor Christoforos Mavrogiannis in the [Fluent Robotics Lab](https://fluentrobotics.com/) at the University of Michigan. Broadly, my research interests are computational human-robot interaction, robot learning, and applied mathematics. More specifically, my research focuses on developing methods that will enable socially aware robot navigation in high-complexity, unstructured, dynamic human environments.
+I am a Robotics Ph.D. Candidate with Professor Christoforos Mavrogiannis in the [Fluent Robotics Lab](https://fluentrobotics.com/) at the University of Michigan. Broadly, my research interests are computational human-robot interaction, robot learning, and applied mathematics. More specifically, my research focuses on developing methods that will enable socially aware robot navigation and human motion prediction in high-complexity, unstructured, dynamic human environments.
 
 Prior to joining the Fluent Robotics Lab, I received a B.S. in Computer Science with a Mathematics minor from the University of Illinois at Urbana-Champaign. There, I worked in the [Intelligent Motion Lab](https://motion.cs.illinois.edu/) with Professor Kris Hauser on mobile robot navigation and shared control for robot avatar teleoperation.
